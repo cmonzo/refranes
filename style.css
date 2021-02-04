@@ -48,3 +48,8 @@ p.seis{
     border-left: red 30px double;
     border-bottom: black 30px dashed;
 }
+footer p{
+    text-align: center;
+    background-color: white;
+    border: black 2px solid;
+}
